@@ -1,7 +1,7 @@
 <a name="8.1.0-next.2"></a>
 # [8.1.0-next.2](https://github.com/angular/angular/compare/8.1.0-next.1...8.1.0-next.2) (2019-06-13)
 
-
+test
 ### Bug Fixes
 
 * **bazel:** do not modify tsconfig.json ([#30877](https://github.com/angular/angular/issues/30877)) ([b086676](https://github.com/angular/angular/commit/b086676))
